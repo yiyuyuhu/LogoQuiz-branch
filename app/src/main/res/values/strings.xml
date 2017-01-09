@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="link_to_register">Not a member? Register now!</string>
+    <string name="login">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Name</string>
+    <string name="link_to_login">Already a member? Login Now!</string>
+    <string name="register">Register</string>
+    <string name="start">Start Quiz!</string>
+    <string name="logout">Logout</string>
+    <string name="multiplayer">Play Multiplayer</string>
+    <string name="next">Skip</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+    <string name="score">Score: </string>
+    <string name="zero">0</string>
+    <string name="view_all">View All</string>
+    <string name="cheat">Cheat</string>
+    <string name="correct_cheat">Correct, but you cheated!</string>
+    <string name="game_ended">Congratulations! You have successfully completed the Logo Quiz. Your score for this round is:</string>
+    <string name="previous_scores">Previous Scores:</string>
+    <string name="replay">Replay Quiz</string>
+    <string name="skipped">You have skipped this question</string>
+    <string name="already_answered">You already answered this question</string>
+    <string name="rules">Multiplayer Game Rules: Each player will be shown five same logos one at a time. The player who answers
+    more questions correctly will win the game.</string>
+    <string name="multiplay">Start Multiplayer Game</string>
+
+</resources>
